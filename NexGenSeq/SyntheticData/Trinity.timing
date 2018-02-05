@@ -1,0 +1,20 @@
+Statistics:
+===========
+Trinity Version:      Trinity-v2.5.1
+Compiler:             GCC
+Trinity Parameters:   --seqType fa --single gene_slices.fa --SS_lib_type F --CPU 8 --max_memory 20G
+Unpaired read mode
+ Input data
+  Single.fasta  1 MByte
+  Number of unique KMERs: 9975
+  Number of reads:        6391 Output data
+  Trinity.fasta 0 MByte
+
+Runtime
+=======
+Start:       Fri Feb  2 14:07:58 EST 2018
+End:         Fri Feb  2 14:08:21 EST 2018
+Trinity   23 seconds
+  Inchworm (phase 1 - read clustering)  0 seconds
+  Chrysalis (phase 1 - read clustering) 18 seconds
+  Rest (phase 2 - parallel assembly)       5 seconds

@@ -1,0 +1,3 @@
+The results of each Trinity run:
+1st column = Python gene length, 2nd column = Trinity gene length, 3rd column = true/false do they match?
+

@@ -1,0 +1,1 @@
+/usr/local/bin/Trinity/util/support_scripts/../../Trinity --single "/home/jcgantr/NexGenSeq/SyntheticData/trinity_out_dir/read_partitions/Fb_0/CBin_0/c0.trinity.reads.fa" --output "/home/jcgantr/NexGenSeq/SyntheticData/trinity_out_dir/read_partitions/Fb_0/CBin_0/c0.trinity.reads.fa.out" --CPU 1 --max_memory 1G --SS_lib_type F --seqType fa --trinity_complete --full_cleanup  
